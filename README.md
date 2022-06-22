@@ -18,6 +18,7 @@ Documentation Date : 22. June, 2022
 - NumPy (for linear algebraic problems)
 - Pandas (for data and tables)
 - matplotlib (for plotting)
+- math (for exponentials)
 
 ## Contents
 ### Chapter 4 The Finite Volume Method for Diffusion Problems
