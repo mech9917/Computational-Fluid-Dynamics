@@ -1,6 +1,6 @@
 # [MEEG007] Computational Fluid Dynamics Programming Problems
 ## Warning
-HI
+본 문서는 전산유체역학 과제 중 프로그래밍/수치해석 과제를 돕기 위하여 업로드되었습니다. 코드를 참고하여도 좋으나 과제물 표절 등의 이유로 인한 불이익에 대해서 본 필자는 책임을 지지 않습니다.
 ## 2021-2 Coursework ssodam distribution ver.
 Author|Contact
 ---|---
